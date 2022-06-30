@@ -6,7 +6,6 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: home
-tagLine: Assessing the linking hypothesis in visual world paradigm studies
 ---
 
 

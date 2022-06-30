@@ -3,12 +3,14 @@ layout: default
 ---
 
 <div class="home">
-  {%- if page.title -%}
-    <h1 class="page-heading">{{ page.title }}</h1>
-  {%- endif -%}
 
-  <h1>{{ site.title }}</h1>
-  <h1>{{ site.tagLine }}</h1>
+  <div style="position:relative">
+    <img src="images/home_page.jpg" alt="Italian Trulli" style="width:100%">
+    <h1 style="position: absolute; top: 40%;left: 50%;transform: translate(-50%, -50%);">{{ site.title }}</h1>
+    <center><h1 style="position: absolute; top: 60%; left: 50%;transform: translate(-50%, -50%);">{{ site.tagLine }}</h1></center>
+  </div>
+  <br>
+  <br>
 
   {{ content }}
 
