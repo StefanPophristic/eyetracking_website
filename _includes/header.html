@@ -24,15 +24,15 @@
           {% for link in links %}
             {% if link.sublinks %}
               <div class="dropdown">
-                <a class="page-link" href="{{ relative_url | append: link_url }}">{{link.title}}</a>
+                <a class="page-link" href="{{link.url | relative_url}}">{{link.title}}</a>
                   <div class="dropdown-content">
                     {% for sublink in link.sublinks %}
-                    <a href="{{relative_url | append: sublink.url}}">{{sublink.title}}</a>
+                    <a href="{{sublink.url | relative_url}}">{{sublink.title}}</a>
                     {%- endfor -%}
                   </div>
               </div>
             {% else %}
-              <a class="page-link" href="{{relative_url | append: link.url}}">{{link.title}}</a>
+              <a class="page-link" href="{{link.url | relative_url}}">{{link.title}}</a>
             {%- endif -%}
 
           {%- endfor -%}
