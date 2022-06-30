@@ -1,26 +1,26 @@
 - title: Home
   url: /index.html
 - title: Learn More
-  url: eyetracking_website/learnMore/index.html
+  url: /learnMore/index.html
   sublinks:
     - title: About
-      url: eyetracking_website/learnMore/index.html
+      url: /learnMore/index.html
     - title: Publications & Talks
-      url: eyetracking_website/learnMore/output.html
+      url: /learnMore/output.html
     - title: People
-      url: eyetracking_website/learnMore/people.html
+      url: /learnMore/people.html
     - title: Resources
-      url: eyetracking_website/learnMore/resources.html
+      url: /learnMore/resources.html
 - title: Projects
-  url: eyetracking_website/projects/index.html
+  url: /projects/index.html
   sublinks:
     - title: info
-      url: eyetracking_website/projects/index.html
+      url: /projects/index.html
     - title: Sun & Breheny 2020
-      url: eyetracking_website/projects/SunBreheny.html
+      url: /projects/SunBreheny.html
     - title: Ryskin et al. 2019
-      url: eyetracking_website/projects/RyskinEtAl.html
+      url: /projects/RyskinEtAl.html
     - title: Leffel et al. 2016
-      url: eyetracking_website/projects/LeffelEtAl.html
+      url: /projects/LeffelEtAl.html
 - title: Contribute
-  url: eyetracking_website/contribute/index.html
+  url: /contribute/index.html
