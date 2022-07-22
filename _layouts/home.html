@@ -5,7 +5,7 @@ layout: default
 <div class="home">
 
   <div style="position:relative">
-    <img src="images/home_page.jpg" alt="Italian Trulli" style="width:100%">
+    <img src="images/home_page.jpg" alt="Home Page Image of a brain and mind" style="width:100%">
     <h1 style="position: absolute; top: 40%;left: 50%;transform: translate(-50%, -50%);">{{ site.title }}</h1>
     <center><h1 style="position: absolute; top: 60%; left: 50%;transform: translate(-50%, -50%);">{{ site.tagLine }}</h1></center>
   </div>
@@ -15,28 +15,35 @@ layout: default
   {{ content }}
 
 
-  {% if site.paginate %}
-    {% assign posts = paginator.posts %}
-  {% else %}
-    {% assign posts = site.posts %}
-  {% endif %}
 
-    {% if site.paginate %}
-      <div class="pager">
-        <ul class="pagination">
-        {%- if paginator.previous_page %}
-          <li><a href="{{ paginator.previous_page_path | relative_url }}" class="previous-page">{{ paginator.previous_page }}</a></li>
-        {%- else %}
-          <li><div class="pager-edge">•</div></li>
-        {%- endif %}
-          <li><div class="current-page">{{ paginator.page }}</div></li>
-        {%- if paginator.next_page %}
-          <li><a href="{{ paginator.next_page_path | relative_url }}" class="next-page">{{ paginator.next_page }}</a></li>
-        {%- else %}
-          <li><div class="pager-edge">•</div></li>
-        {%- endif %}
-        </ul>
-      </div>
-    {%- endif %}
+TO DO:
+- make hover-able part the div and not the image so that hovering over the text will have same effect
+- fix width and height such that the grey band is not showing
+- figure out how to auto populate this
+- get rid of blue on text
 
-</div>
+  <div class="home-page-grid-container">
+    <div class="home-page-grid-item">
+      <a href="/projects/SunBreheny.html">
+        <div style = "position: relative;">
+          <img src="images/sun-breheny-2020-intro-page.jpg" alt="Example Screen image from Sun and breheny 2020 experiment" class="home-page-project-image">
+          <p class="home-page-project-name"> Sun & Breheny 2020 </p>
+      </div></a>
+    </div>
+    <div class="home-page-grid-item">
+      <a href="/projects/RyskinEtAl.html">
+        <div class="home-page-text-and-image" style="position: relative; width:100%; height:100%">
+          <img src="images/ryskin-et-al-2019-intro-page.jpg" alt="Example screen image from ryskin et al 2019 experiment" class="home-page-project-image" style="object-fit:fill;">
+          <p class="home-page-project-name"> Ryskin et al. 2019</p>
+        </div>
+      </a>
+    </div>
+    <div class="home-page-grid-item">
+      <a href="/projects/LeffelEtAl.html">
+        <div style = "position: relative;">
+          <img src="images/leffel-et-al-2016-intro-page.jpg" alt="Example screen image from Leffel et al. 2016 experiment" class="home-page-project-image">
+          <p class="home-page-project-name"> Leffel et al. 2016</p>
+        </div>
+      </a>
+    </div>
+  </div>

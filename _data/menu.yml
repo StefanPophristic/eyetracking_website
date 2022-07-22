@@ -12,10 +12,8 @@
     - title: Resources
       url: /learnMore/resources.html
 - title: Projects
-  url: /projects/index.html
+  url: 
   sublinks:
-    - title: info
-      url: /projects/index.html
     - title: Sun & Breheny 2020
       url: /projects/SunBreheny.html
     - title: Ryskin et al. 2019

@@ -1,0 +1,36 @@
+I"
+<h1 id="sun-and-breheny-2020">Sun and Breheny 2020</h1>
+<h2 id="quantifiers-and-the-linking-hypothesis">Quantifiers and the Linking Hypothesis</h2>
+<p>In their original study, <a href="https://www.tandfonline.com/doi/full/10.1080/23273798.2019.1678759">Sun and Breheny (2020)</a> looked at the effect that target referent set size and presence of same-type residue objects have on the processing of the quantifiers “some”, “all”, and numbers as measured through processing speed and location of eye gaze. We replicate their study 3 as an incremental decision task and a production task with and without a training stage, and find that the extent to which the Referential Belief Link holds for the quantifier processing dataset of Sun and Breheny (2020) was modulated by participants’ likely quantifier production expectations.</p>
+
+<h2 id="links">Links</h2>
+
+<p>Feel free to explore the papers, experimental scripts, and analyses:</p>
+<ul>
+  <li>Incremental Decision Task
+    <ul>
+      <li><a href="/learnMore/output.html">Paper (Degen, Kursat, &amp; Leigh 2021)</a></li>
+      <li><a href="https://stefanpophristic.github.io/eyetracking_replications/experiments/SunBreheny/1_incremental/">Experimental Materials</a></li>
+      <li><a href="https://stefanpophristic.github.io/eyetracking_replications/analysis/SunBreheny/1_incremental/">Data and Analysis Scripts</a></li>
+    </ul>
+  </li>
+  <li>Production Experiments
+    <ul>
+      <li><a href="/learnMore/output.html">Paper (Degen &amp; Pophristic 2022)</a></li>
+      <li><a href="https://stefanpophristic.github.io/eyetracking_replications/experiments/SunBreheny/3_production/">Experimental Materials</a></li>
+      <li><a href="https://stefanpophristic.github.io/eyetracking_replications/analysis/SunBreheny/3_production/">Data and Analysis Scripts</a></li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="try-the-study">Try the study</h2>
+
+<p>Try running through the studies yourself!</p>
+<ul>
+  <li><a href="https://stefanpophristic.github.io/eyetracking_replications/experiments/SunBreheny/1_incremental/main/list1/public/index.html">Incremental Decision Task</a></li>
+  <li><a href="https://stefanpophristic.github.io/eyetracking_replications/experiments/SunBreheny/3_production/3.1/main/list1/public/index.html">Production Task Experiment 1</a></li>
+  <li><a href="https://stefanpophristic.github.io/eyetracking_replications/experiments/SunBreheny/3_production/3.2/main/list1/public/index.html">Production Task Experiment 2</a></li>
+</ul>
+
+<p>** THE TRY THE STUDY LINKS WILL HAVE IMAGES OVERLAYED AND WILL LOOK PRETTY **</p>
+:ET

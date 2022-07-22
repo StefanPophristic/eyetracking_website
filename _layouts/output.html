@@ -3,7 +3,7 @@ layout: default
 ---
 
 <!--
-This is only set up to include articles and journal bibtex entries
+This is only set up to include bibtex entries for: @article, @inproceedings, @incollection
  -->
 
 <html>
@@ -90,12 +90,3 @@ function showOutput(input) {
   }
 }
 </script>
-<!--
-
-
-    {% assign allOutput = site.data.bibliography %}
-    {% for output in allOutput %}
-
-    [{{ output.title }}]({{ output.website }}). {{ output.author }}. ({{ output.year }}). In *{{ output.booktitle }}*. {{ output.doi }}
-
-    {%- endfor -%} -->

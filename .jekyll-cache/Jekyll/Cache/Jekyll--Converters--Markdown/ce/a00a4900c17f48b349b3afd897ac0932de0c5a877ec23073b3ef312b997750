@@ -1,0 +1,29 @@
+I"�<h1 id="ryskin-kurumada--brown-schmidt-2019">Ryskin, Kurumada, &amp; Brown-Schmidt 2019</h1>
+<h2 id="scalar-adjectives-and-the-linking-hypothesis">Scalar Adjectives and the Linking Hypothesis</h2>
+<p>Ryskin, Kurumada, and Brown-Schmidt explored the processing of scalar adjectives by manipulating whether an adjective was heard in the utterance (click on the (<em>big</em>) pickle), whether the target object was presented in an contrastive set (big pickle vs. big and small pickle), and whether the utterances were pragmatically “reliable” (the presence of an adjective and the presence of a contrast set co-occur) or “unreliable” (presence of an adjective and presence of a contrast set do not co-occur).</p>
+
+<p>We are currently in the processes of replicating their experiment 2 as an incremental decision and production task. Stay tuned for the final results!</p>
+
+<h2 id="links">Links</h2>
+
+<p>Feel free to explore the papers, experimental scripts, and analyses:</p>
+<ul>
+  <li>Incremental Decision Task
+    <ul>
+      <li><a href="https://github.com/StefanPophristic/eyetracking_replications/tree/main/experiments/RyskinEtAl/1_incremental/run_3">Experimental Materials</a></li>
+      <li><a href="https://github.com/StefanPophristic/eyetracking_replications/tree/main/analysis/RyskinEtAl/1_incremental">Data and Analysis Scripts</a></li>
+    </ul>
+  </li>
+  <li>Production Experiments</li>
+</ul>
+
+<h2 id="try-the-study">Try the study</h2>
+
+<p>Try running through the studies yourself!</p>
+<ul>
+  <li><a href="https://stefanpophristic.github.io/eyetracking_replications/experiments/RyskinEtAl/1_incremental/run_3/list1/index.html">Incremental Decision Task (pragmatic unreliable condition)</a></li>
+  <li><a href="https://stefanpophristic.github.io/eyetracking_replications/experiments/RyskinEtAl/1_incremental/run_3/list1/index.html">Incremental Decision Task (pragmatic unreliable condition)</a></li>
+</ul>
+
+<p>** THE TRY THE STUDY LINKS WILL HAVE IMAGES OVERLAYED AND WILL LOOK PRETTY **</p>
+:ET
