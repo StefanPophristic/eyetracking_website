@@ -30,6 +30,3 @@ $$ Surprisal(utterance) = -log_{2}(utterance) = -log_{2}\frac{[number \: of \: o
 The surprisal of an utterance (or a specific word in an utterance) is the negative log of percentage of time participants *actually* produced the utterance in the production task out of all times the *could* have produced the utterance.
 
 If *exploration* is at odds with *exploitation*, then the higher the surprisal of an utterance the lower the correlation between eye-movements and clicks. That is, surprisal and correlations between incremental decision and eye-tracking experiments should be highly correlated.
-
-
-** CAROUSEL IMAGE OF THE PIPELINE **

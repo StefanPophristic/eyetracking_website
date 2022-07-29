@@ -10,13 +10,13 @@ In their original study, [Sun and Breheny (2020)](https://www.tandfonline.com/do
 
 Feel free to explore the papers, experimental scripts, and analyses:
 - Incremental Decision Task
-  - [Paper (Degen, Kursat, & Leigh 2021)](/learnMore/output.html)
-  - [Experimental Materials](https://stefanpophristic.github.io/eyetracking_replications/experiments/SunBreheny/1_incremental/)
-  - [Data and Analysis Scripts](https://stefanpophristic.github.io/eyetracking_replications/analysis/SunBreheny/1_incremental/)
+  - [Paper (Degen, Kursat, & Leigh 2021)](/eyetracking_website/learnMore/output.html)
+  - [Experimental Materials](https://github.com/StefanPophristic/eyetracking_replications/tree/main/experiments/SunBreheny/1_incremental/main)
+  - [Data and Analysis Scripts](https://github.com/StefanPophristic/eyetracking_replications/tree/main/analysis/SunBreheny/1_incremental/main)
 - Production Experiments
-  - [Paper (Degen & Pophristic 2022)](/learnMore/output.html)
-  - [Experimental Materials](https://stefanpophristic.github.io/eyetracking_replications/experiments/SunBreheny/3_production/)
-  - [Data and Analysis Scripts](https://stefanpophristic.github.io/eyetracking_replications/analysis/SunBreheny/3_production/)
+  - [Paper (Degen & Pophristic 2022)](/eyetracking_website/learnMore/output.html)
+  - [Experimental Materials](https://github.com/StefanPophristic/eyetracking_replications/tree/main/experiments/SunBreheny/3_production)
+  - [Data and Analysis Scripts](https://github.com/StefanPophristic/eyetracking_replications/tree/main/analysis/SunBreheny/3_production/main)
 
 ## Try the study
 
@@ -24,5 +24,3 @@ Try running through the studies yourself!
 - [Incremental Decision Task](https://stefanpophristic.github.io/eyetracking_replications/experiments/SunBreheny/1_incremental/main/list1/public/index.html)
 - [Production Task Experiment 1](https://stefanpophristic.github.io/eyetracking_replications/experiments/SunBreheny/3_production/3.1/main/list1/public/index.html)
 - [Production Task Experiment 2](https://stefanpophristic.github.io/eyetracking_replications/experiments/SunBreheny/3_production/3.2/main/list1/public/index.html)
-
-** THE TRY THE STUDY LINKS WILL HAVE IMAGES OVERLAYED AND WILL LOOK PRETTY **
